@@ -10,7 +10,7 @@ import Animated, {
   useSharedValue,
   useAnimatedStyle,
   useAnimatedGestureHandler, 
-  withSpring
+  withSpring,
 } from 'react-native-reanimated';
 
 
